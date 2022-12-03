@@ -15,3 +15,5 @@ Conhecimentos:
 * Segurança da Informação
 
 [LinkedIn](https://www.linkedin.com/in/rafael-arriel-00659b244/)
+
+![](image.jpg)
